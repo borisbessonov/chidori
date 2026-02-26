@@ -104,8 +104,10 @@ author: "Имя Автора"
 
 GPU Ускорение (NVIDIA)
 Если у вас есть видеокарта NVIDIA, стандартная установка может использовать только процессор. Для ускорения:
-Удалите текущий torch: ```pip uninstall torch torchvision torchaudio```
-Установите версию с CUDA: ```pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
+
+- Удалите текущий torch: ```pip uninstall torch torchvision torchaudio```
+
+- Установите версию с CUDA: ```pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
 
 Совет от автора: Не позволяйте техническим деталям отвлекать от главного. Этот инструмент создан, чтобы освободить ваше время для творчества, анализа и написания книг.
 
