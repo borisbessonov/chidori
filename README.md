@@ -36,8 +36,8 @@
 
 1.  **Клонируйте репозиторий или скачайте файлы:**
     ```bash
-    git clone https://github.com/ВАШ_НИК/youtube-to-obsidian.git
-    cd youtube-to-obsidian
+    https://github.com/borisbessonov/chidori.git
+    cd chidori
     ```
 
 2.  **Создайте виртуальное окружение (рекомендуется, но я не делал):**
