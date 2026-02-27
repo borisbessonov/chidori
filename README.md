@@ -109,6 +109,14 @@ GPU Ускорение (NVIDIA)
 
 - Установите версию с CUDA: ```pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
 
+КАК СДЕЛАТЬ ГЕНЕРАЦИЮ ТЕКСТА В OBSIDIAN:
+- Устанавливаете плагины Local GPT, BRAT, AI Providers
+- В AI Providers указываете Ollama и установленную LM-модель
+- Настраиваете промты в Local GPT 
+- Заходите в заметку, открываете палитру команд
+- Запускаете промт
+- Вуаля
+  
 Совет от автора: Не позволяйте техническим деталям отвлекать от главного. Этот инструмент создан, чтобы освободить ваше время для творчества, анализа и написания книг.
 
 Разработано с ❤️ для сообщества создателей знаний. Борис Бессонов. [borisworkshop.wordpress.com](https://borisworkshop.wordpress.com/)
